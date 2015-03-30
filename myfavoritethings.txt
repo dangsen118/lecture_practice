@@ -2,4 +2,11 @@ Raindrops on roses and whiskers on kittens,
 Bright copper kettles and warm woollen mittens,
 Brown paper packages tied up with strings,
 These are a few of my favorite things...
+<<<<<<< HEAD
 Making changes to code.
+=======
+When the dog bites and the bee stings
+When I'm feeling sad
+I simply remember my favorite things
+And then I don't feel so bad
+>>>>>>> 8b9fb76f93b36f8bcc292c381a711b19bd95c125
