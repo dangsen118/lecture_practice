@@ -2,6 +2,13 @@ Raindrops on roses and whiskers on kittens,
 Bright copper kettles and warm woollen mittens,
 Brown paper packages tied up with strings,
 These are a few of my favorite things...
+<<<<<<< HEAD
 
 Passing my EECS class and maybe graduting
 Getting gigs and composing good music. 
+=======
+When the dog bites and the bee stings
+When I'm feeling sad
+I simply remember my favorite things
+And then I don't feel so bad
+>>>>>>> 9aac25e5eadaf84560823a57aa7d5c77e478e81e
